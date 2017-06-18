@@ -9683,7 +9683,7 @@ int main(int argc, char *argv[])
 /*----------------------------------------------------------------------
 **  
 **  
-**  Copyright (C) 2013-2017, NumFOCUS Foundation.
+**  Copyright (C) 2013-2016, NumFOCUS Foundation.
 **  All rights reserved.
 **  
 **  This library is derived, with permission, from the International
